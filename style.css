@@ -1,0 +1,153 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hwb(44 0% 0%);
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    padding: 8px;
+    width: 200px;
+}
+
+.btn {
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.navbar-container {
+    background-color: #333;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.navbar li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.navbar li a:hover {
+    background-color: #555;
+}
+
+
+.card {
+    width: calc(50% - 20px); 
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgb(209, 242, 23);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(132, 48, 171, 0.842);
+    transition: all 0.3s ease;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block; 
+    box-sizing: border-box; 
+}
+
+.card .content {
+    display: flex;
+    flex-direction:column;
+}
+
+.card .image {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.card .image img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.card .preparation {
+    flex: 2;
+}
+
+.card .preparation p {
+    font-size: 14px;
+    color: #666;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(226, 124, 28);
+    color: #ffffff;
+  }
+  .about us{
+    background-color: #cfc20f;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .about {
+    background-color:  rgb(209, 242, 23);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .reviews {
+    background-color: #cfc20f;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .reci{
+    background-color: #cfc20f;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+.ingredients{
+    background-color:  rgb(209, 242, 23);
+}
+.reviews{
+    background-color:  rgb(209, 242, 23);
+}
+.card {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .highlight {
+    background-color: hsl(234, 92%, 49%) !important;
+    color: white;
+    transition: 0.8s;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }

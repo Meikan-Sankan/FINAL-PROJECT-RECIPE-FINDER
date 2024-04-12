@@ -1,0 +1,428 @@
+ <div class="favorites">
+        <h2>Choose your Favorites recipe from us</h2>
+        <div class="favorite-recipe">
+            
+        </div>
+    </div>
+   
+      
+      <div class="card">
+        <h2>1.Victoria sandwitch</h2>
+        <p> <img src="images/victoria sandwitch.webp"></p>
+        <p>PREPARATION</p>
+        <p>Heat oven to 190C/fan 170C/gas 5. Butter two 20cm sandwich tins and line with non-stick baking paper. In a large bowl, beat 200g caster sugar, 200g softened butter, 4 beaten eggs, 200g self-raising flour, 1 tsp baking powder and 2 tbsp milk together until you have a smooth, soft batter. Divide the mixture between the tins, smooth the surface with a spatula or the back of a spoon. Bake for about 20 mins until golden and the cake springs back when pressed. Turn onto a cooling rack and leave to cool completely. To make the filling, beat the 100g softened butter until smooth and creamy, then gradually beat in 140g sifted icing sugar and a drop of vanilla extract (if you’re using it). Spread the buttercream over the bottom of one of the sponges. Top it with 170g strawberry jam and sandwich the second sponge on top. Dust with a little icing sugar before serving. Keep in an airtight container and eat within 2 days.
+        </p>
+      </div>
+      
+      <div class="card">
+        <h2>Cottage pie</h2>
+        <p> <img src="images/cottage pie.webp"></p>
+        <p>PREPARATION</p>
+        <p>Smothered with a creamy mash topping and packed full of tender meat and gravy, cottage pie is classic British comfort food at its best.
+            Once you've got to grips with a traditional cottage pie, try adding chilli powder to the mix to spice things up a bit, or Indian spices to turn it into a keema pie. Replacing the beef with lamb transforms the dish into a shepherd's pie and you could swap the mash for sweet potato and/or swede or  throw some carrots or squash into the mix. Or making a completely vegetarian version with added mixed beans for protein.</p>
+    </div>
+      
+      <div class="card">
+        <h2> Chocolate chip cookies </h2>
+        <p> <img src="images/Chocolate chip cookies.webp"></p>
+        <p>PREPARATION</p>
+        <p>A batch of freshly made chocolate chip cookies will beat a pack of shop-bought any day. Just cream the butter and sugar, chuck in the rest of the ingredients and mix – it really is that simple. You can get the kids to help you make them too. 
+
+        </p>
+      </div>
+      
+      <div class="card">
+        <h2> Lasagne </h2>
+        <p> <img src="images/lasagne.webp"></p>
+        <p>PREPARATION</p>
+        <p>A lasagne is perfect for preparing in advance, in fact it usually tastes better when made the day before as the flavours have had a chance to develop (the same is true of many dishes). The first time you make one, focus on doing the meat sauce first, and then the white sauce, as the multitasking of two sauces on the go might be a bit too much.
+
+            You can also turn your lasagne into a meat-free feast for the whole family or a healthy option packed with plenty of veggies and much less fat. You could even top with mozzarella balls and pesto for a fancy finish.</p>
+      </div>
+
+
+      
+      <div class="card">
+        <h2>Roast chicken </h2>
+        <p> <img src="images/Roast chicken.webp"></p>
+        <p>PREPARATION</p>
+        <p>There's nothing quite like a traditional roast chicken with all the trimmings to get the whole family round the table on a Sunday. Streaks of bacon, a smidge of butter and homemade stuffing is all you need to add a mass amount of flavour to your bird. Just remember to keep an eye on the clock when it comes to cooking.</p>
+      </div>
+      
+      <div class="card">
+        <h2>Chicken and mushroom pie</h2>
+        <p> <img src="images/Chicken and mushroom pie.webp"></p>
+        <p>PREPARATION</p>
+        <p>Pies are far easier to make than you may think – especially if you cheat a wee bit and use ready-made pastry. Making the filling from scratch is the most important part of the pie – you can control what goes in, using fresh veggies and good quality meat.
+
+            Once you've mastered this classic chicken and mushroom pie, expand and make other pies from cheese pie to the Hairy Bikers' favourite steak and ale pie and even teach yourself how to make the pastry from scratch using our simple puff pastry recipe.</p>
+      </div>
+      
+      <div class="card">
+        <h2>Chocolate fudge cake</h2>
+        <p> <img src="images/Chocolate fudge cake.webp"></p>
+        <p>PREPARATION</p>
+        <p>Melted chocolate or cocoa powder make the base of most chocolate cakes so  play around with different varieties of both. Smother your chocolate cake in a  spread like Nutella, melted chocolate or make your own chocolate ganache, top with M&Ms, sprinkle with sugar strands or even turn it into a chocolate fingers cake</p>
+      </div>
+      
+      <div class="card">
+        <h2> Chicken stir-fry</h2>
+        <p> <img src="images/Chicken stir fry.webp"></p>
+        <p>PREPARATION</p>
+        <p>Chicken stir-fry is the most popular recipe in the world. It's a great way to make a chicken meat sauce, but you can also make it into a meat-free feast for the whole family or a healthy option packed with plenty of veggies and much less fat. You could even top with mozzarella balls and pesto for a fancy finish.</p>
+        <p>We all need a good stir fry in our cooking arsenal. They're quick and easy to make, great for the whole family and well balanced nutritionally. All you need is some veggies, your favourite meat, some stir-fry sauce (be it soy sauce, black bean or sweet and sour, for example) and last but not least, a wok. Cook your meat first, add in the veggies and sauce and stir until combined and delicious.</p>
+        <p>Chillies, ginger and garlic are your flavour friends here, as is soy sauce. Other sauces, like oyster, Sriracha and even fish sauce work well too, as there are no rules. Serve with noodles or rice.</p>
+    </div>
+    
+    <div class="card">
+        <h2>Pizza</h2>
+        <p><img src="images/Pizza.webp"></p>
+        <p>PREPARATION</p>
+        <p>Pizza dough is easy to make and far more satisfying and delicious than shoving a frozen supermarket pizza in the oven, not to mention way fresher and healthier.</p>
+        <p>Experiment with different toppings and flavour combinations. This tomato base is super simple, made with just tinned plum tomatoes, sugar and olive oil (you could add some oregano and tomato puree for depth of flavour).</p>
+    </div>
+    
+    <div class="card">
+        <h2>Rhubarb crumble</h2>
+        <p><img src="images/Rhubarb crumble.webp"></p>
+        <p>PREPARATION</p>
+        <p>Nothing beats a delicious, buttery crumble packed with fresh fruit and topped with a crisp combination of flour, oats, butter, and sugar. And it’s way easier to master than making a pie – the topping is super simple, so it’s the ultimate dessert for an amateur baker. This recipe is made with deliciously tart rhubarb in season during early summer, though you could equally use tinned or frozen varieties. Or instead, try apple, blackberry, or plum crumble, and serve with all-essential custard or vanilla ice cream.</p>
+    </div>
+    
+    <div class="card">
+        <h2>Blueberry muffins</h2>
+        <p><img src="images/Blueberry muffins.webp"></p>
+        <p>PREPARATION</p>
+        <p>Just cream the butter and sugar, add all of the other ingredients, whisk together, pop into muffin cases and bake. Excellent for a breakfast treat or as a mid-afternoon pick-me-up, the basic blueberry muffin recipe can be tweaked to include raspberries, strawberries, nuts, or chocolate chips, or you could add some lemon zest and throw some poppy seeds in the mix for taste and texture. They're so easy, even the kids can get involved in making them.</p>
+    </div>
+    
+    <div class="card">
+        <h2>Spaghetti Bolognese</h2>
+        <p><img src="images/Spaghetti Bolognese .webp"></p>
+        <p>PREPARATION</p>
+        <p>You could swap the beef mince for pork or turkey mince, and the spaghetti for linguine or tagliatelle – or even penne or fusilli if you’re a real spaghetti rebel. Add small chunks of carrot and celery for a well-balanced meal, and a veggie option is good to have in your armour, too, for a healthy, budget dinner – try this meat-free spag bol. Ingredients like Worcestershire sauce, beef stock cubes, tomato puree, and dried herbs like oregano are all store cupboard essentials that will help bring the flavor in this and many other recipes too.</p>
+    </div>
+    
+    <div class="card">
+        <h2>Apple pie</h2>
+        <p><img src="images/Apple pie.webp"></p>
+        <p>PREPARATION</p>
+        <p>This recipe teaches you how to make shortcrust pastry, but you can opt for shop-bought, which makes life much easier as a novice baker (because, baby steps). Once you've mastered an apple pie, try adding in other fruits – plums or pears work well, and our particular favorite is blackberry when they’re in season (around September). You could equally add in dry fruits such as raisins or sultanas. It’s an idea to experiment with different types of pastry as your topper – puff or filo pastry can be super effective.</p>
+    </div>
+
+
+   <div class="ingredients"id="INGREDIENTS"></div>
+    <div class="ingredients"</div>
+    <h1> INGREDIENTS </h1>
+    <p>
+
+      1. Vegetables:
+         - Onions
+         - Garlic
+         - Tomatoes
+         - Bell peppers
+         - Carrots
+         - Potatoes
+         - Spinach
+         - Broccoli
+         - Mushrooms
+         - Zucchini
+      
+      2. Fruits:
+         - Apples
+         - Bananas
+         - Oranges
+         - Lemons
+         - Berries (strawberries, blueberries, raspberries)
+         - Avocado
+         - Pineapple
+         - Mango
+         - Grapes
+      
+      3. Proteins:
+         - Chicken (breasts, thighs, drumsticks)
+         - Beef (steak, ground beef)
+         - Pork (chops, tenderloin)
+         - Fish (salmon, cod, tuna)
+         - Shrimp
+         - Tofu
+         - Beans (black beans, kidney beans, chickpeas)
+         - Lentils
+      
+      4. Grains and starches:
+         - Rice (white rice, brown rice)
+         - Pasta (spaghetti, penne, lasagna)
+         - Bread (white bread, whole wheat bread)
+         - Quinoa
+         - Oats
+         - Barley
+         - Couscous
+      
+      5. Dairy and dairy alternatives:
+         - Milk
+         - Cheese (cheddar, mozzarella, parmesan)
+         - Yogurt
+         - Butter
+         - Cream
+         - Sour cream
+         - Almond milk
+         - Coconut milk
+      
+      6. Herbs and spices:
+         - Salt
+         - Pepper
+         - Basil
+         - Oregano
+         - Thyme
+         - Cumin
+         - Paprika
+         - Chili powder
+         - Garlic powder
+         - Ginger
+         - Rosemary
+         - Parsley
+         - Cinnamon
+         - Nutmeg
+      
+      7. Condiments and sauces:
+         - Olive oil
+         - Soy sauce
+         - Vinegar (balsamic vinegar, red wine vinegar, apple cider vinegar)
+         - Ketchup
+         - Mustard
+         - Mayonnaise
+         - Sriracha
+         - Honey
+         - Worcestershire sauce
+         - Barbecue sauce
+      
+      This list covers a wide variety of ingredients commonly used in cooking. Specific recipes may require additional ingredients, but these are the basics that many recipes build upon. If you have a particular type of recipe or cuisine in mind.</p>    
+
+
+      
+    <div class="recit"id="REVIEWS"></div>
+    <div class="reviews"</div>
+    <h1>REVIEWS</h1>
+    <h3>Neema</h3>
+    <p>Its a nice website to get some good recipes it has helped me so much</p>
+
+
+
+    <h3><Mark></h3>
+    <p>Its a good to get some good recipes for nice dishes</p>
+
+
+
+      <h3>Esther</h3>
+      <p>its a fantastic recipe finder for great a food</p>
+
+
+
+      <h3>Buay</h3>
+      <p>It has played a big role when cooking it has helped me get the right ingredients</p>
+
+
+      <h3>Kellitah</h3>
+      <p>A wonderful recipe finder for good dishes</p>
+    </div>
+
+
+    <div class="reci"id="ABOUT US"></div>
+      <div class="about">
+      <h1>ABOUT US</h1>
+      <P>Welcome to our recipe finder project! We are a team of passionate individuals who believe that cooking should be an enjoyable and stress-free experience. Our mission is to simplify the process of finding and preparing meals, so that you can spend less time worrying about what to cook and more time enjoying your food.
+
+        Our journey began when we noticed that many people struggle to decide what to cook, especially after a long day. We wanted to create a tool that could help users quickly and easily find recipes based on the ingredients they have on hand.
+        
+        Through user research and testing, we discovered that many people have unique dietary needs and preferences, such as vegetarian or gluten-free diets. We designed our recipe finder to be flexible and customizable, so that users can find recipes that meet their specific needs.
+        
+        We are constantly working to improve our recipe finder and add new features. Our team is committed to providing a user-friendly and intuitive experience, and we welcome feedback and suggestions from our users.
+        
+        Thank you for choosing our recipe finder. We hope it makes your cooking experience more enjoyable </P>
+        </div>
+
+        <div class="kuku"id="RECIPES"></div>
+        <h1>RECIPES</h1>
+        <p>Here are some of the ingredients from us </p>
+        <p> Here are some of the recipes from our app
+
+          1. Vegetables:
+             - Onions
+             - Garlic
+             - Tomatoes
+             - Bell peppers
+             - Carrots
+             - Potatoes
+          
+          2. Fruits:
+             - Apples
+             - Bananas
+             - Oranges
+             - Lemons
+             - Berries (strawberries, blueberries, raspberries)
+             - Avocado
+          
+          3. Proteins:
+             - Chicken (breasts, thighs, drumsticks)
+             - Beef (steak, ground beef)
+             - Pork (chops, tenderloin)
+             - Fish (salmon, cod, tuna)
+             - Tofu
+             - Beans (black beans, kidney beans, chickpeas)
+          
+          4. Grains and starches:
+             - Rice (white rice, brown rice)
+             - Pasta (spaghetti, penne, lasagna)
+             - Bread (white bread, whole wheat bread)
+             - Quinoa
+             - Oats
+          
+          5. Dairy and dairy alternatives:
+             - Milk
+             - Cheese (cheddar, mozzarella, parmesan)
+             - Yogurt
+             - Butter
+             - Almond milk
+             - Soy milk
+          
+          6. Herbs and spices:
+             - Salt
+             - Pepper
+             - Basil
+             - Oregano
+             - Thyme
+             - Cumin
+             - Paprika
+             - Chili powder
+             - Garlic powder
+             - Ginger
+          
+          7. Condiments and sauces:
+             - Olive oil
+             - Soy sauce
+             - Vinegar (balsamic vinegar, red wine vinegar)
+             - Ketchup
+             - Mustard
+             - Mayonnaise
+             - Sriracha
+             - Honey
+          
+          These are just some of the common ingredients used in cooking. The specific ingredients you'll need will depend on the recipe you're making. If you have a particular recipe in mind, feel free to ask for the ingredients for that recipe specifically</p>
+          <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>RECIPE FINDER </title>
+</head>
+<body>
+    <div class="container">
+        <h1>RECIPE FINDER APP</h1>
+        <form>
+            <input type="text" id="search" placeholder="Enter Recipe">
+            <button type="button" id="submit" class="btn">Search</button>
+        </form>
+        <div id="results"></div>
+    </div>
+    <div class="navbar-container">
+        <ul class="navbar">
+          <li><a href="#INGREDIENTS">INGREDIENTS</a></li>
+          <li><a href="#RECIPES">RECIPES</a></li>
+          <li><a href="#REVIEWS">REVIEWS</a></li>
+          <li><a href="#ABOUT US">ABOUT US</a></li>
+          <li><a href="#CONTACT US">CONTACT US</a></li>
+        </ul>
+      </div>
+      <div class="container">
+        <h1>Recipe Finder</h1>
+        <form id="searchForm">
+            <input type="text" id="search" placeholder="Enter Recipe">
+            <button type="submit" class="btn">Search</button>
+        </form>
+        <div id="results" class="card-container">
+            <!-- Recipe cards will be dynamically added here -->
+        </div>
+    </div>
+
+    
+    
+
+
+    <div class="recit"id="REVIEWS"></div>
+    <div class="reviews"</div>
+    <h1>REVIEWS</h1>
+    <h3>Neema</h3>
+    <p>Its a nice website to get some good recipes it has helped me so much</p>
+
+
+
+    <h3><Mark></h3>
+    <p>Its a good to get some good recipes for nice dishes</p>
+
+
+
+      <h3>Esther</h3>
+      <p>its a fantastic recipe finder for great a food</p>
+
+
+
+      <h3>Buay</h3>
+      <p>It has played a big role when cooking it has helped me get the right ingredients</p>
+
+
+      <h3>Kellitah</h3>
+      <p>A wonderful recipe finder for good dishes</p>
+    </div>
+
+
+    <div class="reci"id="ABOUT US"></div>
+      <div class="about">
+      <h1>ABOUT US</h1>
+      <P>Welcome to our recipe finder project! We are a team of passionate individuals who believe that cooking should be an enjoyable and stress-free experience. Our mission is to simplify the process of finding and preparing meals, so that you can spend less time worrying about what to cook and more time enjoying your food.
+
+        Our journey began when we noticed that many people struggle to decide what to cook, especially after a long day. We wanted to create a tool that could help users quickly and easily find recipes based on the ingredients they have on hand.
+        
+        Through user research and testing, we discovered that many people have unique dietary needs and preferences, such as vegetarian or gluten-free diets. We designed our recipe finder to be flexible and customizable, so that users can find recipes that meet their specific needs.
+        
+        We are constantly working to improve our recipe finder and add new features. Our team is committed to providing a user-friendly and intuitive experience, and we welcome feedback and suggestions from our users.
+        
+        Thank you for choosing our recipe finder. We hope it makes your cooking experience more enjoyable </P>
+        </div>
+
+        
+        
+        
+          
+        <div class="reci"id="CONTACT US"></div>
+        <div class="Contacts"</div>
+        <h1>CONTACTS</h1>
+        <h2>Instagram</h2>
+      <p><img src="images/instagram.png"</p>
+        <p>@recipes finder</p>
+
+
+        <h2>Twitter</h2>
+        <p><img src="data:image/png;base64,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"</p>
+        <p>recipe finder</p>
+
+
+        <h2>Facebook</h2>
+        <p><img src="data:image/jpeg;base64,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"</p>
+        <p>recipes finder</p>
+
+
+        <h2>Telegram</h2>
+        <p><img src="data:image/png;base64,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"</p>
+        <p>07726850414</p>
+
+
+        <h2>Whatsapp</h2>
+        <p><img src="data:image/png;base64,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"</p>
+        <p>0771394603</p>
+  </div>
+  
+   <script type="module" src="script.js"></script>
+</body>
+</html>
